@@ -34,3 +34,5 @@
 
 ## 
 
+![snake gif](https://github.com/Lucas-OF28/Lucas-OF28/blob/output/github-contribution-grid-snake.svg)
+
