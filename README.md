@@ -1,7 +1,7 @@
  ## 👋 Hi people
-- Academico de Ciência da Computação UNESC 
+- Academico de Ciência da Computação UNESC - 7ªFase
 - Estagiário UNESC Labs - AGPR5
-- Atualmente estudando Javascript, Nodejs e React
+- Atualmente estudando JavaScript, Nodejs e React
 
 
 <div align="center">
