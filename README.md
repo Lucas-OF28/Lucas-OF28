@@ -1,6 +1,6 @@
  ## 👋 Hi people
 - Academico de Ciência da Computação UNESC - 7ªFase
-- Estagiário UNESC Labs - AGPR5
+- Programador Estagiário - Nexxus Evolution Systems
 - Atualmente estudando JavaScript, Nodejs e React
 
 
