@@ -1,7 +1,7 @@
  ## 👋 Hello
  
 - Academico de Ciência da Computação UNESC - 8ªFase
-- Programador Estagiário - Nexxus Evolution Systems
+- Programador Junior - Nexxus Evolution Systems
 - Atualmente estudando C# e DevExpress
 
 
