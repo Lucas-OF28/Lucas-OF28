@@ -1,9 +1,8 @@
  ## 👋 Hello
  
-- Academico de Ciência da Computação UNESC - 9ªFase
-- Programador Junior - Nexxus Evolution Systems
-- Atualmente estudando C# - DevExpress - Blazor - Flutter - ReactNative
-
+- Bacharelado em Ciência da Computação - UNESC
+- Programador Junior 3 - Nexxus Evolution Systems
+- Atualmente estudando C# - DevExpress - Blazor 
 
 <div align="center">
   <a href="https://github.com/Lucas-OF28">
