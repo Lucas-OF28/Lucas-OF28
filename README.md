@@ -1,8 +1,8 @@
  ## 👋 Hello
  
 - Bacharelado em Ciência da Computação - UNESC
-- Programador Junior 3 - Nexxus Evolution Systems
-- Atualmente estudando C# - DevExpress - Blazor 
+- Programador Pleno 1 - Nexxus Evolution Systems
+- Atualmente estudando C# - DevExpress - Blazor - SQL
 
 <div align="center">
   <a href="https://github.com/Lucas-OF28">
