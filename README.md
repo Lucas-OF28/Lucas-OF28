@@ -1,7 +1,7 @@
  ## 👋 Hello
  
 - Bacharelado em Ciência da Computação - UNESC
-- Programador Pleno 1 - Nexxus Evolution Systems
+- Programador Pleno 2 - Nexxus Evolution Systems
 - Atualmente estudando C# - DevExpress - Blazor 
 
 <div align="center">
