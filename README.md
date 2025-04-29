@@ -2,7 +2,7 @@
  
 - Bacharelado em Ciência da Computação - UNESC
 - Programador Pleno 2 - Nexxus Evolution Systems
-- Atualmente estudando C# - DevExpress - Blazor 
+- Desenvolvedor utilizando as tecnologias: C#, React, Blazor, DevExpress, Javascript, Java, C++
 
 <div align="center">
   <a href="https://github.com/Lucas-OF28">
