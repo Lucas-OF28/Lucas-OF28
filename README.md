@@ -4,11 +4,11 @@
 - Programador Pleno 2 - Nexxus Evolution Systems
 - Desenvolvedor utilizando as tecnologias: C#, React, Blazor, DevExpress, Javascript, Java, C++
 
--- <div align="center">
---  <a href="https://github.com/Lucas-OF28">
---  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-OF28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
---  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-OF28&layout=compact&langs_count=7&theme=dracula"/>
---</div>
+<div align="center">
+ <a href="https://github.com/Lucas-OF28">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-OF28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-OF28&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## 
 
