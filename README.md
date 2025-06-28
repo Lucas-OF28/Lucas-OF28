@@ -1,7 +1,7 @@
  ## 👋 Hello
  
 - Bacharelado em Ciência da Computação - UNESC
-- Programador Pleno 2 - Nexxus Evolution Systems
+- Programador Pleno 3 Full Stack - Nexxus Evolution Systems
 - Desenvolvedor utilizando as tecnologias: C#, React, Blazor, DevExpress, Javascript, Java, C++
 
 <div align="center">
